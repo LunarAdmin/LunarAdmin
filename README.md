@@ -1,8 +1,8 @@
 # Lunar Admin
-Lunar Admin is a state-of-the-art admin system designed for use in ROBLOX. With an extensive library of over 100 commands, Lunar Admin provides users with the ability to customize their gaming experience in every way imaginable.
+Lunar Admin is a new and innovative admin system for ROBLOX. With an extensive library of over 100 commands, Lunar Admin provides users with the ability to customize their gaming experience in every way imaginable.
 
 ### Why choose Lunar
-One of the key benefits of choosing Lunar Admin is its unparalleled level of customization. The system is designed to accommodate users of all levels, with a wide range of settings to suit every individual's unique needs. The Lunar Admin system also provides users with the ability to create custom UI elements that are perfectly aligned with their game's theme. Owners can further refine their admin experience by disabling commands and setting minimum ranks for command usage.
+One of the key benefits of choosing Lunar Admin is its unparalleled level of customization. Lunar is designed to accommodate users of all levels, with a wide range of settings to suit every individual's unique needs. The Lunar Admin system also provides users with the ability to create custom UI elements that are perfectly aligned with their game's theme. Owners can further refine their admin experience by disabling commands and setting minimum ranks for command usage.
 
 Lunar Admin also features an advanced anti-abuse system, which sets a limit of the amount of bans / kicks a moderator can make in a certain period of time.
 
