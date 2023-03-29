@@ -8,6 +8,6 @@ Finally, it's worth noting that our system is continually being updated and impr
 ### Commands
 Lunar boasts an impressive library of over 100+ commands, with more in the works! The dedicated team of Lunar developers works tirelessly to produce high-quality commands that have been rigorously tested for security, accessibility, and functionality. Their commitment to excellence ensures that you have access to a wide range of powerful and reliable tools that can help you manage your server and streamline your workflow. Additionally, if you're interested in checking out a Github raw file that contains all of Lunar's commands and their default rank settings, you can do so by following the link provided. This resource is a valuable asset for anyone who wants to learn more about Lunar's capabilities and explore the full range of features that it has to offer
 
-#<img src="https://user-images.githubusercontent.com/128256644/228675892-9a2b5661-1be8-4d74-86b9-3ae9f772e212.png" width="200" />
+<img src="https://user-images.githubusercontent.com/128256644/228675892-9a2b5661-1be8-4d74-86b9-3ae9f772e212.png" width="400" />
 
 ### How to install
