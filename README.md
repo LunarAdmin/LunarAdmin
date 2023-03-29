@@ -17,7 +17,7 @@ Lunar boasts an impressive library of over 100+ commands, with more in the works
 
 
 ### How to install
-<img align="left" height="220" src="https://user-images.githubusercontent.com/128256644/228691105-575c8eac-9442-498a-bcfd-a5ecfc627ad5.jpg">
+<img align="right" height="220" src="https://user-images.githubusercontent.com/128256644/228691105-575c8eac-9442-498a-bcfd-a5ecfc627ad5.jpg">
 The process is pretty straight forward, with just a few simple steps you'll have Lunar in your game in no time!
 1. Go to; LINK
 2. Click the download button
