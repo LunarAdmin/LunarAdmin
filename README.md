@@ -20,7 +20,11 @@ Lunar boasts an impressive library of over 100+ commands, with more in the works
 <img align="right" height="220" src="https://user-images.githubusercontent.com/128256644/228691105-575c8eac-9442-498a-bcfd-a5ecfc627ad5.jpg">
 The process is pretty straight forward, with just a few simple steps you'll have Lunar in your game in no time!
 1. Go to; LINK
-2. Click the download button
-3. In studio, open toolbox
-4. Go to "My Models"
-5. Drag in Lunar and start having a blast!
+2. 
+3. Click the download button
+4. 
+5. In studio, open toolbox
+6. 
+7. Go to "My Models"
+8. 
+9. Drag in Lunar and start having a blast!
