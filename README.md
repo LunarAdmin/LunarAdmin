@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/128256644/228675892-9a2b5661-1be8-4d74-86b9-3ae9f772e212.png" width="400" />
 
-# Lunar Admin
 Lunar Admin is a new and innovative admin system for ROBLOX. With an extensive library of over 100 commands, Lunar Admin provides users with the ability to customize their gaming experience in every way imaginable.
 ## Security
+<h3><img align="right" height="400" src="https://user-images.githubusercontent.com/128256644/228689987-3ff75beb-a8de-4a41-9233-ff5869a05e93.jpg">
 ### Server-Side
 Lunar's prioritization of security is evident in its development approach, which places a strong emphasis on server-side scripting. By minimizing the amount of code that runs on the client-side, Lunar reduces the potential for vulnerabilities in its system and helps to ensure that your game remains secure. Furthermore, Lunar has taken the additional step of avoiding client-to-server communication, as this type of interaction can be particularly vulnerable to exploits.
 
