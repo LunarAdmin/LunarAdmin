@@ -13,7 +13,7 @@ Finally, it's worth noting that our system is continually being updated and impr
 
 ### Commands
 Lunar boasts an impressive library of over 100+ commands, with more in the works! The dedicated team of Lunar developers works tirelessly to produce high-quality commands that have been rigorously tested for security, accessibility, and functionality. Their commitment to excellence ensures that you have access to a wide range of powerful and reliable tools that can help you manage your server and streamline your workflow. Additionally, if you're interested in checking out a Github raw file that contains all of Lunar's commands and their default rank settings, you can do so by following the link provided. This resource is a valuable asset for anyone who wants to learn more about Lunar's capabilities and explore the full range of features that it has to offer
-
+<img align="right" height="400" src="https://user-images.githubusercontent.com/128256644/228690174-99f7ba04-3b18-433c-a8e5-e6a8b50c2ddb.png">
 
 ### How to install
 The process is pretty straight forward, with just a few simple steps you'll have Lunar in your game in no time!
