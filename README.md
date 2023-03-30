@@ -30,8 +30,8 @@ The process is pretty straight forward, with just a few simple steps you'll have
 
 ### Credits
 * Head Scripter: DrDeadIy
-Assistant Scripter: N/A
-UI: DrDeadIy
-Animator: N/A
-Modeller: DrDeadIy
-Project Manager: N/A
+* Assistant Scripter: N/A
+* UI: DrDeadIy
+* Animator: N/A
+* Modeller: DrDeadIy
+* Project Manager: N/A
