@@ -28,7 +28,7 @@ The process is pretty straight forward, with just a few simple steps you'll have
 7. Go to "My Models"
 9. Drag in Lunar and start having a blast!
 
-# Credits
+### Credits
 Head Scripter: DrDeadIy
 Assistant Scripter: N/A
 UI: DrDeadIy
