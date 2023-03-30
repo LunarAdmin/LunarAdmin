@@ -29,7 +29,7 @@ The process is pretty straight forward, with just a few simple steps you'll have
 9. Drag in Lunar and start having a blast!
 
 ### Credits
-Head Scripter: DrDeadIy
+* Head Scripter: DrDeadIy
 Assistant Scripter: N/A
 UI: DrDeadIy
 Animator: N/A
