@@ -21,9 +21,10 @@ Lunar boasts an impressive library of over 100+ commands, with more in the works
 ### How to install
 
 The process is pretty straight forward, with just a few simple steps you'll have Lunar in your game in no time!
+<img align="right" height="370" src="https://user-images.githubusercontent.com/128256644/228691105-575c8eac-9442-498a-bcfd-a5ecfc627ad5.jpg">
 1. Go to; LINK
 3. Click the download button
-5. In studio, open toolbox  <img align="right" height="370" src="https://user-images.githubusercontent.com/128256644/228691105-575c8eac-9442-498a-bcfd-a5ecfc627ad5.jpg">
+5. In studio, open toolbox  
 6. Go to "My Models"
 7. Drag in Lunar and start having a blast!
 
